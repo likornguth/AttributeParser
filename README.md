@@ -65,10 +65,11 @@ Sample Input
 </tag1>
 tag1.tag2~name
 tag1~name
-```
 tag1~value
+```
 Sample Output
-
+```
 Name1
 Not Found!
 HelloWorld
+```
